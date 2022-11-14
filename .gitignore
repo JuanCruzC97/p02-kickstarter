@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Ocultamos los datos originales del proyecto.
+# Podemos desocultarlos al terminar el proyecto con el fcc
+README_original.md
+/notebooks
+/data/raw
+outputs_test.csv
