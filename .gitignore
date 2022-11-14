@@ -134,4 +134,4 @@ dmypy.json
 README_original.md
 /notebooks
 /data/raw
-outputs_test.csv
+outputs_test.tsv
